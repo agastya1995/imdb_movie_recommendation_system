@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <h4>Search Item - {{form_data['title']}} </h4>
+
+    <h3>No results found. Here are a list of similar sounding movies. Did you mean any one of these?</h3>
+
+    <table>
+    {{ dataframe|safe }}
+    </table>
+
+<p>Click <a href='/'>here</a> to go to the home page</p>
+
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <h4>Search Item - {{form_data['title']}} </h4>
+
+    <h3>Results</h3>
+
+    <h5> Title: {{details[1].title()}} </h5>
+    <h5> Genres: {{details[2]}} </h5>
+    <h5> Year: {{details[3]}} </h5>
+        
+    <h3>Recommendations</h3>
+    <table>
+    {{ dataframe|safe }}
+    </table>
+<p>Click <a href='/'>here</a> to search for another movie</p>
+</html>
