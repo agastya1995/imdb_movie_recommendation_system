@@ -1,6 +1,6 @@
 # An Item-Based Collaborative Filtering Approach #
 
-**The model has been hosted on an Amazon AWS EC2 instance. The link can be found [here](http://ec2-35-174-113-76.compute-1.amazonaws.com/)**
+**The model has been hosted on an Amazon AWS EC2 instance, [here](http://ec2-35-174-113-76.compute-1.amazonaws.com/)**
 
 **Since the instance has been created using and AWS educate account, the instance will automatically shut down a year from now (on 6 November, 2012)**
 **Additionally, the instance may shut down sooner if it crosses the free tier limits.** 
