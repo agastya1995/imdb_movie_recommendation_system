@@ -2,7 +2,7 @@
 
 **The model has been hosted on an Amazon AWS EC2 instance, [here](http://ec2-35-174-113-76.compute-1.amazonaws.com/)**
 
-**Since the instance has been created using and AWS educate account, the instance will automatically shut down a year from now (on 6 November, 2012)**
+**Since the instance has been created using and AWS educate account, the instance will automatically shut down a year from now (on 6 November, 2021)**
 **Additionally, the instance may shut down sooner if it crosses the free tier limits.** 
 
 This file has the source code of the hosted model. To run it, you will need to follow these steps:
